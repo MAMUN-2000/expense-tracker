@@ -1,16 +1,16 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "name": "Salary from Google",
-            "type": "income",
-            "amount": 1000000
-        },
-        {
-            "id": 2,
-            "name": "Family Expenses",
-            "type": "expense",
-            "amount": 200000
-        }
-    ]
+  "transactions": [
+    {
+      "name": "বাসা ভাড়া ",
+      "amount": "30000",
+      "type": "income",
+      "id": "1678835307907d66aec5a2df0f"
+    },
+    {
+      "name": "mese income",
+      "amount": "40000",
+      "id": "167883533943535e9b8d5b4933",
+      "type": "income"
+    }
+  ]
 }

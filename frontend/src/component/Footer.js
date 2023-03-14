@@ -1,6 +1,10 @@
 import React from "react";
 
 function Footer() {
-  return <div className="footer">&copy;2022 Learn with Sumit</div>;
+  return (
+    <div className="footer">
+      &copy;{new Date().getFullYear()} Hasan Al Mamun
+    </div>
+  );
 }
 export default Footer;
